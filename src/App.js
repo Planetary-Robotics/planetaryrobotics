@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          New toolchain for PROBO15 
+          New toolchain for Showcase
         </a>
       </header>
     </div>
