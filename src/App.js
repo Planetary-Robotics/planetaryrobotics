@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          New toolchain
+          New toolchain for JLo
         </a>
       </header>
     </div>
