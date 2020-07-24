@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          old closed toolchain 
+          new awesome open  toolchain 
         </a>
       </header>
     </div>
