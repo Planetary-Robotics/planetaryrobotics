@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          New toolchain for github test
+          Existing toolchain
         </a>
       </header>
     </div>
