@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          new awesome open  toolchain 
+          Jenkins + GitHub + Jira
         </a>
       </header>
     </div>
