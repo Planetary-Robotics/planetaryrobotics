@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          new awesome open  toolchain 
+          Jenkins is now working!
         </a>
       </header>
     </div>
