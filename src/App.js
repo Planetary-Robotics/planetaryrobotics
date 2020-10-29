@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Jenkins + GitHub + Jira. Yay!
+          Jenkins + GitHub + Jira. Making a change
         </a>
       </header>
     </div>
